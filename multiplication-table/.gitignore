@@ -1,0 +1,4 @@
+node_modules/
+example-1/tables/*.txt
+example-2/tables/*.txt
+example-3/tables/*.txt
